@@ -49,3 +49,9 @@ Among all models, **Random Forest achieved the highest accuracy of 81%**.
    pip install scikit-learn seaborn matplotlib numpy scikit-plot
 jupyter notebook
 
+## Contributors
+
+- [Benelfqih Aya](https://github.com/abenelfqih)  
+- [Safae Oulaja](https://github.com/safaeOulaja)
+
+
